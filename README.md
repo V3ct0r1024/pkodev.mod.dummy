@@ -2,6 +2,14 @@
 ## TOP/PKO/KOP mod: pkodev.mod.dummy
 Template project for Visual Studio 2019 Community, which is designed to develop mods for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)** using the C++ programming language.
 
+## Modification information
+
+- **Name:** pkodev.mod.dummy;
+- **Version:** 1.0;
+- **Author:** V3ct0r;
+- **Type:** for client and server (Game.exe and GameServer.exe);
+- **Supported executable .exe files:** GAME_13X_0, GAME_13X_1, GAME_13X_2, GAME_13X_3, GAME_13X_4, GAME_13X_5, GAMESERVER_136 and GAMESERVER_138.
+
 ## Discussion on the forum
 
 - [English section](https://pkodev.net/topic/5905-pkodevnet-mod-loader-project-template-for-visual-studio-2019-community/)
